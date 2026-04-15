@@ -1,7 +1,8 @@
 # Homelab Project 1: Foundation and Active Directory Security Lab
+Built and configured a secure Active Directory lab environment to gain hands-on experience in identity and access management, system hardening, and security monitoring. Administered user accounts and Group Policy Objects, enforced least privilege access controls, and analyzed Windows Security Event Logs to monitor authentication activity and detect potential security events.
 
 ## Overview
-Built and configured an Active Directory (AD) lab environment to develop hands-on experience with identity and access management, system security, and monitoring. Managed user accounts, applied Group Policy configurations, and analyzed Windows security logs to observe authentication activity and security events.
+Built and configured an Active Directory lab environment to develop hands-on experience with identity and access management, system security, and monitoring. Managed user accounts, applied Group Policy configurations, and analyzed Windows security logs to observe authentication activity and security events.
 
 ## Enironment
 - Windows Server (Domain Controller)
