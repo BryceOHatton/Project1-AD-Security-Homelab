@@ -62,7 +62,13 @@ Results:
 - Suspicious activity was logged in Windows Security Event Logs
 - Administrative recovery actions were completed successfully
 
-## Screenshots
+## Evidence
+Screenshots are included in the /Screenshots directory to show how everything was set up and tested throughout the lab. These cover:
+- Active Directory structure, including OUs, users, and groups
+- File permission configurations and access control setup
+- Examples of both allowed and denied access attempts
+- Windows Security Event Logs showing detection (4624, 4625, 4740, 4663)
+- Account lockout and unlock process
 
 ## Key Takeaways
 
