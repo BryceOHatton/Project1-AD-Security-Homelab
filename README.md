@@ -49,11 +49,13 @@ To validate the configured security controls, the following scenarios were perfo
 - Simulated repeated failed login attempts to trigger account lockout policies
 - Attempted unauthorized access to restricted directories to verify access control enforcement
 - Generated file activity (create, modify, delete) to validate object access auditing
+
 Following these events:
 - Reviewed security logs in Event Viewer to analyze activity
 - Verified suspicious activity with the user
 - Unlocked the affected account and required a password reset at next login
 - Demonstrated basic incident response and account recovery procedures
+
 Results:
 - Security controls functioned as expected
 - Unauthorized access attempts were successfully denied
