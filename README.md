@@ -71,6 +71,12 @@ Screenshots are included in the /Screenshots directory to show how everything wa
 - Account lockout and unlock process
 
 ## Key Takeaways
+- Set up a structured Active Directory (AD) environment with basic access control configurations
+- Applied least privilege principles to help protect sensitive resources
+- Configured audit policies to enable security monitoring and logging
+- Tested detection capabilities through simple attack simulations
+- Performed basic incident response tasks, including reviewing, unlocking user accounts, and reseting passwords
+- Gained hands-on experience analyzing Windows Security Event Logs
 
 ## Skills Demonstrated
 
