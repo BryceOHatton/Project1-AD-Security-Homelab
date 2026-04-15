@@ -16,15 +16,32 @@
 
 ## Security Implementation
 ### Identity and Access Management
+- Created users, groups and organizational units
+- Implemented role-based access control using security groups (e.g., Employees_Group)
+- Enforced least privilege for all users and resource access 
 
 ### Group Policy Hardening
+- Configured password policies
+- Enforced account lockout threshholds to mitigate bruteforce, dictionary, and hybrid attacks.
+- Applied user restrictions using Group Policy Management
 
 ### File System Security
+- Secure sensitive directories and ensured the oppropriate users had access (e.g., HR-Confidential)
+- Removed inherited permissions and applied explicit New Technology File System access controls
+- Implemented group-based permissions to simplify access management
 
 ## Monitoring and Detection
 ### Advanced Audit Policies Configured
+- Logon and logoff auditing
+- Credential validation monitoring
+- Account lockout tracking
+- Object access auditing
 
 ### Key Security Events Analyzed
+- 4624 - Successful logon
+- 4625 - Failed logon attempt
+- 4740 - Account lockout
+- 4663 - File access activity
 
 ## Attack Simulation
 
