@@ -71,7 +71,7 @@ Screenshots are included in the /Screenshots directory to show how everything wa
 - Account lockout and unlock process
 
 ## Key Takeaways
-- Set up a structured Active Directory (AD) environment with basic access control configurations
+- Set up a structured Active Directory environment with basic access control configurations
 - Applied least privilege principles to help protect sensitive resources
 - Configured audit policies to enable security monitoring and logging
 - Tested detection capabilities through simple attack simulations
@@ -79,5 +79,13 @@ Screenshots are included in the /Screenshots directory to show how everything wa
 - Gained hands-on experience analyzing Windows Security Event Logs
 
 ## Skills Demonstrated
+- Active Directory Administration  
+- Identity and Access Management  
+- Group Policy Configuration  
+- Windows Security Event Monitoring
+- File System Auditing and Monitoring 
+- Access Control and Least Privilege  
+- Security Monitoring and Basic Incident Response 
 
 ## Project Status
+Completed - Active Directory environment implemented, security controls enforced, and functionality validated through simulated activity and event log analysis.
