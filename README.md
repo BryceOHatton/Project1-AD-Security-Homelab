@@ -63,7 +63,7 @@ Results:
 - Administrative recovery actions were completed successfully
 
 ## Validation and Testing
-Screenshots are included in the (Screenshots/) directory to show how everything was set up and tested throughout the lab. These cover:
+Screenshots are included in the ![](Screenshots/) directory to show how everything was set up and tested throughout the lab. These cover:
 
 ### Failed Logon Event (4625)
 Multiple failed login attempts were generated and logged.
