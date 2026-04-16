@@ -1,0 +1,20 @@
+========================================
+Security Event Log - Successful Logon (4624)
+========================================
+
+[Event Information]
+Event ID        : 4624
+Event Type      : Successful Logon
+Date/Time       : [Insert Timestamp]
+
+[Account Details]
+Account Name    : testuser
+Logon Type      : 2 (Interactive)
+
+[Source Information]
+Workstation     : CLIENT1
+
+[Analysis]
+This event confirms a successful authentication. It is commonly used
+as a baseline to compare against failed logon attempts and identify
+normal user activity.
