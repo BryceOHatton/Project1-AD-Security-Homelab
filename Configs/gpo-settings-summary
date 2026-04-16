@@ -1,0 +1,21 @@
+========================================
+Group Policy Configuration Summary
+========================================
+
+[Overview]
+Group Policy settings were configured to enforce secure authentication
+and reduce the risk of unauthorized access.
+
+[Password Policy]
+- Minimum Password Length  : 8 characters
+- Password Complexity      : Enabled
+- Password History         : Enabled
+
+[Account Lockout Policy]
+- Lockout Threshold        : 5 failed attempts
+- Lockout Duration         : 15 minutes
+- Reset Counter After      : 15 minutes
+
+[Purpose]
+These configurations help protect against brute-force, dictionary,
+and hybrid password attacks while enforcing strong authentication practices.
