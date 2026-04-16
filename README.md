@@ -62,9 +62,13 @@ Results:
 - Suspicious activity was logged in Windows Security Event Logs
 - Administrative recovery actions were completed successfully
 
-## Evidence
+## Validation and Testing
 Screenshots are included in the /Screenshots directory to show how everything was set up and tested throughout the lab. These cover:
-- Active Directory structure, including OUs, users, and groups
+
+### Failed Logon Event (4625)
+- Multiple failed login attempts were generated and logged.
+![Event 4625](screenshots/event-4625.png)
+
 - File permission configurations and access control setup
 - Examples of both allowed and denied access attempts
 - Windows Security Event Logs showing detection (4624, 4625, 4740, 4663)
