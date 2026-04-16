@@ -104,7 +104,8 @@ NTFS permissions enforcing least privilege.
 - Gained hands-on experience analyzing Windows Security Event Logs
 
 ## Skills Demonstrated
-- - Active Directory Administration  
+**Directory Services and IAM**  
+  - Active Directory Administration  
 - Identity and Access Management  
 - Group Policy Configuration  
 - Windows Security Event Monitoring
