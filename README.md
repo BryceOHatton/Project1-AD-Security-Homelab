@@ -104,14 +104,23 @@ NTFS permissions enforcing least privilege.
 - Gained hands-on experience analyzing Windows Security Event Logs
 
 ## Skills Demonstrated
-**Directory Services and IAM**  
-  - Active Directory Administration  
-- Identity and Access Management  
-- Group Policy Configuration  
-- Windows Security Event Monitoring
-- File System Auditing and Monitoring 
-- Access Control and Least Privilege  
-- Security Monitoring and Basic Incident Response 
+**Directory Services & IAM**
+- Active Directory Administration  
+- Identity and Access Management (IAM)  
+- Role-Based Access Control (RBAC)  
+
+**System Security**
+- Group Policy Configuration (GPO)  
+- NTFS Permissions and Access Control  
+- Least Privilege Enforcement  
+
+**Monitoring & Detection**
+- Windows Security Event Log Analysis  
+- Security Event Monitoring (4624, 4625, 4740, 4663)  
+
+**Incident Response**
+- Account Lockout Handling and Recovery  
+- Basic Incident Investigation and Response 
 
 ## Project Status
 Completed - Active Directory environment implemented, security controls enforced, and functionality validated through simulated activity and event log analysis.
