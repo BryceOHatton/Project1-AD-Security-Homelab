@@ -77,6 +77,7 @@ File system auditing was configured and validated.
 
 ### Account Lockout (4740)
 Account lockout triggered after repeated failed attempts.
+
 ![Event 4740](Screenshots/Event-4740.png)
 
 ### Group Policy Configuration
