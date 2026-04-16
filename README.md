@@ -3,7 +3,7 @@
 ## Overview
 Built and secured an Active Directory lab environment to develop hands-on experience in identity and access management, system hardening, and security monitoring. Configured user accounts and Group Policy Objects, enforced least privilege access controls, and analyzed Windows Security Event Logs to monitor authentication activity and identify potential security threats.
 
-## Enironment
+## Environment
 - Windows Server (Domain Controller)
 - Windows Client (Domain-Joined Workstation)
 - Kali Linux (Attack Simulation System)
@@ -12,7 +12,7 @@ Built and secured an Active Directory lab environment to develop hands-on experi
 ## Key Components
 - DC1 (Domain Controller)
 - CLIENT1 (Domain-Joined Workstation)
-- KALI1 (Attacker Security Testing Machince)
+- KALI1 (Attacker Security Testing Machine)
 - Organization Units: Employees, IT, Workstations
 
 ## Security Implementation
@@ -23,7 +23,7 @@ Built and secured an Active Directory lab environment to develop hands-on experi
 
 ### Group Policy Hardening
 - Configured password policies
-- Enforced account lockout threshholds to mitigate bruteforce, dictionary, and hybrid attacks.
+- Enforced account lockout thresholds to mitigate bruteforce, dictionary, and hybrid attacks.
 - Applied user restrictions using Group Policy Management
 
 ### File System Security
@@ -104,7 +104,7 @@ NTFS permissions enforcing least privilege.
 - Gained hands-on experience analyzing Windows Security Event Logs
 
 ## Skills Demonstrated
-- Active Directory Administration  
+- - Active Directory Administration  
 - Identity and Access Management  
 - Group Policy Configuration  
 - Windows Security Event Monitoring
