@@ -66,13 +66,24 @@ Results:
 Screenshots are included in the /Screenshots directory to show how everything was set up and tested throughout the lab. These cover:
 
 ### Failed Logon Event (4625)
-- Multiple failed login attempts were generated and logged.
-- ![Event 4625](Screenshots/Event-4625.png)
+Multiple failed login attempts were generated and logged.
+![Event 4625](Screenshots/Event-4625.png)
 
-- File permission configurations and access control setup
-- Examples of both allowed and denied access attempts
-- Windows Security Event Logs showing detection (4624, 4625, 4740, 4663)
-- Account lockout and unlock process
+### File Access Auditing (4663)
+File system auditing was configured and validated.
+![Event 4663](Screenshots/Event-4663.png)
+
+### Account Lockout (4740)
+Account lockout triggered after repeated failed attempts.
+![Event 4740](Screenshots/Event-4740.png)
+
+### Group Policy Configuration
+Audit policies configured via GPO.
+![Audit Policy](Screenshots/Audit-Policies.png)
+
+### File Permissions
+NTFS permissions enforcing least privilege.
+![File Permissions](Screenshots/File-Permissions.png)
 
 ## Key Takeaways
 - Set up a structured Active Directory environment with basic access control configurations
