@@ -67,7 +67,7 @@ Screenshots are included in the /Screenshots directory to show how everything wa
 
 ### Failed Logon Event (4625)
 - Multiple failed login attempts were generated and logged.
-![Event 4625](screenshots/event-4625.png)
+- ![Event 4625](Screenshots/Event-4625.png)
 
 - File permission configurations and access control setup
 - Examples of both allowed and denied access attempts
