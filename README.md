@@ -67,10 +67,12 @@ Screenshots are included in the /Screenshots directory to show how everything wa
 
 ### Failed Logon Event (4625)
 Multiple failed login attempts were generated and logged.
+
 ![Event 4625](Screenshots/Event-4625.png)
 
 ### File Access Auditing (4663)
 File system auditing was configured and validated.
+
 ![Event 4663](Screenshots/Event-4663.png)
 
 ### Account Lockout (4740)
@@ -79,10 +81,12 @@ Account lockout triggered after repeated failed attempts.
 
 ### Group Policy Configuration
 Audit policies configured via GPO.
+
 ![Audit Policy](Screenshots/Audit-Policies.png)
 
 ### File Permissions
 NTFS permissions enforcing least privilege.
+
 ![File Permissions](Screenshots/File-Permissions.png)
 
 ## Key Takeaways
