@@ -1,0 +1,18 @@
+========================================
+Security Event Log - Account Lockout (4740)
+========================================
+
+[Event Information]
+Event ID        : 4740
+Event Type      : Account Lockout
+Date/Time       : [Insert Timestamp]
+
+[Account Details]
+Account Name    : testuser
+
+[Source Information]
+Caller Computer : CLIENT1
+
+[Analysis]
+This event confirms that the account was locked due to repeated
+failed login attempts, indicating enforcement of account lockout policy.
