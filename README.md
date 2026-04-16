@@ -65,6 +65,11 @@ Results:
 ## Validation and Testing
 Screenshots are included in the [Screenshots](Screenshots/) directory to show how everything was set up and tested throughout the lab.
 
+Configuration files can be found in the [Configs](./Configs) directory.
+
+Sample logs are included in the [Logs](./Logs) directory.
+
+
 ### Failed Logon Event (4625)
 Multiple failed login attempts were generated and logged.
 
