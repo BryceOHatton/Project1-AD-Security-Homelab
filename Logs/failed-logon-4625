@@ -1,0 +1,22 @@
+========================================
+Security Event Log - Failed Logon (4625)
+========================================
+
+[Event Information]
+Event ID        : 4625
+Event Type      : Failed Logon
+Date/Time       : [Insert Timestamp]
+
+[Account Details]
+Account Name    : testuser
+Logon Type      : 2 (Interactive)
+
+[Failure Details]
+Failure Reason  : Unknown username or bad password
+
+[Source Information]
+Workstation     : CLIENT1
+
+[Analysis]
+This event indicates a failed login attempt. Multiple occurrences
+may suggest a brute-force or unauthorized access attempt.
