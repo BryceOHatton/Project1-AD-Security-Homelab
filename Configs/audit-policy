@@ -1,0 +1,24 @@
+========================================
+Audit Policy Configuration
+========================================
+
+[Overview]
+The following audit policies were configured to support security monitoring
+and detection of suspicious activity within the Active Directory environment.
+
+[Configured Policies]
+- Logon/Logoff Auditing        : Success, Failure
+- Account Lockout Monitoring   : Enabled
+- Credential Validation        : Enabled
+- Object Access Auditing       : Enabled
+
+[Purpose]
+These settings allow for visibility into authentication activity, account
+lockouts, and file access events, which are critical for detecting
+unauthorized behavior.
+
+[Relevant Event IDs]
+- 4624 : Successful Logon
+- 4625 : Failed Logon Attempt
+- 4740 : Account Lockout
+- 4663 : File Access Activity
