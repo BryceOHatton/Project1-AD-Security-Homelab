@@ -1,0 +1,24 @@
+========================================
+Security Event Log - Object Access (4663)
+========================================
+
+[Event Information]
+Event ID        : 4663
+Event Type      : Object Access (File Activity)
+Date/Time       : [Insert Timestamp]
+
+[Object Details]
+Object Name     : C:\Secure\HR-Confidential\file.txt
+Object Type     : File
+
+[Access Details]
+Access Type     : Read / Write / Delete
+Access Granted  : Yes / No
+
+[Account Information]
+Account Name    : testuser
+
+[Analysis]
+This event shows that a file was accessed or modified. It is useful for
+tracking user activity on sensitive files and validating object access
+auditing configurations.
